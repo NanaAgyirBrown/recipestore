@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "RecipeBook"
+  "defaultProject": "RecipeBook",
+  "cli": {
+    "analytics": false
+  }
 }
